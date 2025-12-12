@@ -1,0 +1,8 @@
+{
+  "name": "HealthAI Analyzer",
+  "description": "A mobile-first AI tool for analyzing medical reports, symptoms, and health data safely.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
